@@ -1,0 +1,12 @@
+chmod +x USB_Storage_Disable.sh
+bash USB_Storage_Disable.sh 
+
+chmod +x USB_Storage_Enable.sh
+bash USB_Storage_Enable.sh
+
+----------------------------------------------------------
+
+./USB_Storage_Disable.sh 
+./USB_Storage_Enable.sh
+
+----------------------------------------------------------
